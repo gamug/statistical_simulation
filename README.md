@@ -5,7 +5,7 @@ statistical_simulation Patch 1.1 algorithm. Can be used as a library to make a s
 - Correlation between variables.
 - Truncate random variables.
 - Plot histograms and select the bet fitted distributions.
-- plot databases.
+- Plot databases.
 
 Patch's 1.1 Notes:
 - We're having problems with conda environment managing and scipy library, we're working to solve this.
