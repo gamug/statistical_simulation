@@ -4,7 +4,7 @@ statistical_simulation Patch 1.1 algorithm. Can be used as a library to make a s
 - Statistical distributions sampling using montecarlo and random latin hypercube
 - Correlation between variables.
 - Truncate random variables.
-- Plot histograms and select the bet fitted distributions.
+- Plot histograms and select the best fitted distributions.
 - Plot databases.
 
 Patch's 1.1 Notes:
