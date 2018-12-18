@@ -1,0 +1,1 @@
+{"left":1.25,"right":1,"up":1,"down":1,"header":1}
